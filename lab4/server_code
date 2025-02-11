@@ -64,7 +64,7 @@ void setup() {
     pinMode(ECHO_PIN, INPUT);
 
     // TODO: name your device to avoid conflictions
-    BLEDevice::init("ESP32 Yourong");
+    BLEDevice::init("Yourong ESP32");
     pServer = BLEDevice::createServer();
     pServer->setCallbacks(new MyServerCallbacks());
     BLEService *pService = pServer->createService(SERVICE_UUID);
