@@ -17,4 +17,6 @@ Not all questions are equally important. According to the decision tree, each qu
 - Does decision tree remain suitable for your choice of new sensors? If yes, carefully justify your answer. If not, what ML model would you use and explain why.  
   A decision tree may no longer be suitable. It works best with discrete, structured data. However, if we introduce continuous or high-dimensional data like speech or motion, its performance may degrade. In that case, I would consider a lightweight neural network (e.g., 1D CNN), which is better suited for processing time-series data like voice or movement.
 
--video link:https://youtube.com/shorts/TQ26A1DN0rs
+#### video link:
+
+https://youtube.com/shorts/TQ26A1DN0rs
