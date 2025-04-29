@@ -1,10 +1,10 @@
 ###  Discussion
 
-*Play with your sorting hat. Are all 10 questions important to create the sorting hat? If you were to remove some questions to improve user experience, which questions would you remove and justify your answer.**
+1.*Play with your sorting hat. Are all 10 questions important to create the sorting hat? If you were to remove some questions to improve user experience, which questions would you remove and justify your answer.**
 
   Not all questions are equally important. According to the decision tree, each question has a feature importance score. The higher the score, the more it influences the final classification result. Questions with lower scores contribute less and can potentially be removed to improve user experience without significantly reducing model accuracy.
 
-If you were to improve the sorting hat, what technical improvements would you make? Consider:**
+2.If you were to improve the sorting hat, what technical improvements would you make? Consider:**
 
   * **How could you improve the model's accuracy or efficiency?**  
     I would collect more base data and remove less important questions to improve both accuracy and model efficiency.
