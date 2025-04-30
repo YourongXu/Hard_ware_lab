@@ -2,7 +2,7 @@
 
 https://youtube.com/shorts/TQ26A1DN0rs
 
-### Discussion
+#### Discussion
 
 #### 1. Play with your sorting hat. Are all 10 questions important to create the sorting hat? If you were to remove some questions to improve user experience, which questions would you remove and justify your answer.
 
